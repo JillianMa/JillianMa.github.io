@@ -1,0 +1,15 @@
+h2 {
+    text-align:center;
+}
+
+a {
+    color: tomato;
+}
+
+a:hover {
+    color: lime;
+}
+
+.dancing-font {
+    font-family: 'Dancing Script', cursive;
+}
